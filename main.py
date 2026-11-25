@@ -9,7 +9,7 @@ Pure stdlib only.
 import os
 import sys
 
-# 156 chars (limit 160). One sentence, one line, no trailing newline.
+# 156 chars (limit 160; 158 bytes, the em dash is 3 bytes). One sentence, one line, no trailing newline.
 LINE = ("My smart fridge sent me a weekly health report, locked the ice "
         "dispenser, and still couldn't tell me where the leftovers went "
         "\u2014 it just watched me eat them.")
