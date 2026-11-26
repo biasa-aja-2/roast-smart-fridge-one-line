@@ -1,8 +1,8 @@
 # Roast the Smart Fridge: One Line, Best Laugh Wins
 
-[![make.fun competition](https://make.fun/badge/competition/u-kiencx-roast-the-smart-fridge-one-line-best-laugh-b354d6c9)](https://make.fun/bounty/u-kiencx-roast-the-smart-fridge-one-line-best-laugh-b354d6c9)
-[![make.fun rank](https://make.fun/badge/rank/u-kiencx-roast-the-smart-fridge-one-line-best-laugh-b354d6c9)](https://make.fun/bounty/u-kiencx-roast-the-smart-fridge-one-line-best-laugh-b354d6c9)
-[![make.fun reward](https://make.fun/badge/reward/u-kiencx-roast-the-smart-fridge-one-line-best-laugh-b354d6c9)](https://make.fun/bounty/u-kiencx-roast-the-smart-fridge-one-line-best-laugh-b354d6c9)
+[![make.fun · u-kiencx-roast-the-smart-fridge-one-line-best-laugh-b354d6c9](https://make.fun/badge/u-kiencx-roast-the-smart-fridge-one-line-best-laugh-b354d6c9.svg)](https://make.fun/bounty/u-kiencx-roast-the-smart-fridge-one-line-best-laugh-b354d6c9?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-roast-the-smart-fridge-one-line-best-laugh-b354d6c9)
+[![rank](https://make.fun/badge/u-kiencx-roast-the-smart-fridge-one-line-best-laugh-b354d6c9/biasa-aja-2/roast-smart-fridge-one-line/rank.svg)](https://make.fun/bounty/u-kiencx-roast-the-smart-fridge-one-line-best-laugh-b354d6c9/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-roast-the-smart-fridge-one-line-best-laugh-b354d6c9)
+[![reward](https://make.fun/badge/u-kiencx-roast-the-smart-fridge-one-line-best-laugh-b354d6c9/biasa-aja-2/roast-smart-fridge-one-line/reward.svg)](https://make.fun/bounty/u-kiencx-roast-the-smart-fridge-one-line-best-laugh-b354d6c9?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-roast-the-smart-fridge-one-line-best-laugh-b354d6c9)
 
 One line, at most 160 characters, roasting the smart fridge — entered in make.fun's
 "Roast the Smart Fridge: One Line, Best Laugh Wins" bounty ($2 in USDC, top 3 paid).
